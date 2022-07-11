@@ -1,0 +1,14 @@
+{
+  "Title": "WiiTanks Map",
+  "Type": "map",
+  "Org": "kvn",
+  "Ident": "wiitanks_map",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "RootNamespace": null,
+  "Metadata": {}
+}
